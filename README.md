@@ -65,7 +65,7 @@ wevtutil qe Security /f:xml > "Data/Security_Logs.xml"
 wevtutil qe System /f:xml > "Data/System_Logs.xml"
 ```
 
-### 1. Procesar un archivo individual
+## 📋 1. Procesar un archivo individual
 
 Ideal para pruebas rápidas o actualizaciones incrementales de un servidor específico.
 
